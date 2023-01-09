@@ -22,9 +22,9 @@
     "url": "git://github.com/stacktracejs/stacktrace.js.git"
   },
   "dependencies": {
-    "error-stack-parser": "^2.0.6",
-    "stack-generator": "^2.0.5",
-    "stacktrace-gps": "^3.0.4"
+    "error-stack-parser": "^2.1.3",
+    "stack-generator": "^2.0.10",
+    "stacktrace-gps": "^3.1.2"
   },
   "devDependencies": {
     "es6-promise": "^3.3.1",
